@@ -4,8 +4,9 @@ import sys
 
 def use_script():
     using = """
-    Please use:
-    > python arguments.py [<command>]
+    Script for experiments with arguments.
+
+    usage: python arguments.py [<command>]
 
     The following commands are available:
       --test     first argument
